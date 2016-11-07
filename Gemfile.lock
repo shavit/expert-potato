@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.0.2)
+    postmark (1.9.1)
+      json
+      rake
+    rake (11.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  postmark
+
+BUNDLED WITH
+   1.13.6
