@@ -1,0 +1,4 @@
+#!/bin/sh
+
+source env/bin/activate
+export POSTMARK_API_TOKEN=""
